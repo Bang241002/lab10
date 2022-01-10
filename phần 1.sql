@@ -1,4 +1,4 @@
-﻿USE AdventureWorks
+﻿USE AdventureWorks2019
 GO
 
 --Tạo một thủ tục lưu trữ lấy ra toàn bộ nhân viên vào làm theo năm có tham số đầu vào là một năm
